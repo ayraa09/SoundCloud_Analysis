@@ -1,5 +1,5 @@
 # Projects
-collection of personal projects
+
 
 #SOUNDCLOUD
 
