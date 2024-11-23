@@ -1,6 +1,3 @@
-# Projects
-
-
 #SOUNDCLOUD
 
 ##Database Analysis
